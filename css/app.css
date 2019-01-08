@@ -385,8 +385,7 @@ h3 {
 sup {
   font-size: 10px;
   line-height: 12px;
-  display: inline-block;
-  margin-left: 3px; }
+  display: inline-block; }
 
 p.smaller {
   font-size: 14px; }
