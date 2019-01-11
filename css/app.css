@@ -88,13 +88,16 @@ th.columns.last {
 th.columns table:not(.button) {
   width: 100%; }
 
-th.large-4 {
-  width: 184px;
+th.large-5 {
+  width: 234px;
   padding-left: 8px;
   padding-right: 8px; }
 
-th.large-4.last {
+th.large-5.last {
   padding-right: 16px; }
+
+th.large-5 center {
+  min-width: 202px; }
 
 th.large-6 {
   width: 284px;
@@ -107,13 +110,16 @@ th.large-6.first {
 th.large-6.last {
   padding-right: 16px; }
 
-th.large-8 {
-  width: 384px;
+th.large-7 {
+  width: 334px;
   padding-left: 8px;
   padding-right: 8px; }
 
-th.large-8.first {
+th.large-7.first {
   padding-left: 16px; }
+
+th.large-7 center {
+  min-width: 302px; }
 
 th.large-12 {
   width: 584px;
